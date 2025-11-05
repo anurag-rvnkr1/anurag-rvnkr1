@@ -1,195 +1,483 @@
-# 🛡️ Namaste, I'm Anurag Revankar 🔐
+# 🛡️ Anurag Revankar | Cybersecurity Engineer & Backend Developer
 
 <div align="center">
-  
-  ![Cybersecurity Animation](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Enthusiast;Ethical+Hacker+%7C+Security+Researcher;Building+Secure+Digital+Solutions;Always+Learning+%7C+Always+Innovating&font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60)](https://github.com/anurag-rvnkr1)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Securing+Digital+Infrastructures;AI-Powered+Threat+Detection+Engineer;Django+%7C+Python+%7C+Cybersecurity;90%25%2B+Malicious+URL+Detection+Rate;Building+Tomorrow's+Secure+Web&font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=60)](https://github.com/anurag-rvnkr1)
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anu-rvnkr-m416g)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anurag-rvnkr1)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 Professional Summary
 
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000)](https://github.com/anurag-rvnkr1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](https://www.linkedin.com/in/anu-rvnkr-m416g)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000)](https://www.instagram.com/anurag_rvnkr)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200"/>
-
-```yaml
-name: "Anurag Revankar"
-role: "Cybersecurity Enthusiast & Ethical Hacker"
-location: "India 🇮🇳"
-education: "Student"
-focus: ["Ethical Hacking", "Penetration Testing", "Security Research"]
-status: "Always Learning & Building"
-goal: "Creating Secure Digital Solutions"
-```
-
-I'm a passionate **cybersecurity enthusiast** with a deep fascination for ethical hacking and digital security. As a student driven by curiosity and innovation, I'm actively seeking opportunities to apply my skills in real-world scenarios. My journey is defined by continuous learning, hands-on experimentation, and a commitment to building secure digital environments.
-
-**What drives me:**
-- 🔍 Discovering vulnerabilities and strengthening defenses
-- 🛠️ Building tools that enhance cybersecurity
-- 📚 Staying updated with the latest security trends
-- 🤝 Collaborating with the cybersecurity community
-- 🎯 Contributing to open-source security projects
-
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-[![Secure-Vault](https://github-readme-stats.vercel.app/api/pin/?username=anurag-rvnkr1&repo=Secure-Vault&theme=tokyonight&border_color=00D9FF&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117)](https://github.com/anurag-rvnkr1/Secure-Vault)
-
-</div>
-
-<div align="center">
-  
-[![View All Repositories](https://img.shields.io/badge/🔗_View_All_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF&border_color=00D9FF)](https://github.com/anurag-rvnkr1?tab=repositories)
-
-</div>
-
----
-
-## 🛠️ Technical Arsenal
-
-### 💻 Programming Languages
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=000)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000)
-
-</div>
-
-### 🔐 Security Tools & Frameworks
-<div align="center">
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=000)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=000)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=000)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=000)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white&labelColor=000)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white&labelColor=000)
-
-</div>
-
-### 🖥️ Operating Systems
-<div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=000)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=000)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=000)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anurag-rvnkr1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00D9FF&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-rvnkr1&layout=compact&langs_count=8&theme=tokyonight&border_color=00D9FF&title_color=00D9FF&text_color=ffffff&bg_color=0D1117" />
-
-</div>
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anurag-rvnkr1&theme=tokyonight&border=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&background=0D1117)
-
-</div>
-
----
-
-## 🎯 Roadmap & Goals
-
-```mermaid
-gantt
-    title Cybersecurity Learning Journey
-    dateFormat  YYYY-MM-DD
-    section Certifications
-    CEH Preparation     :active, ceh, 2025-01-01, 2025-06-01
-    OSCP Training      :oscp, after ceh, 180d
-    CISSP Study        :cissp, after oscp, 120d
-    
-    section Skills Development
-    Advanced Penetration Testing :apt, 2025-01-01, 2025-12-01
-    Security Research Projects   :srp, 2025-03-01, 2025-12-01
-    Open Source Contributions    :osc, 2025-02-01, 2025-12-01
-    
-    section Community
-    CTF Competitions    :ctf, 2025-01-01, 2025-12-01
-    Bug Bounty Programs :bbp, 2025-04-01, 2025-12-01
-    Mentoring Others    :mentor, 2025-07-01, 2025-12-01
-```
-
-### 🏅 Current Objectives
-- 🎓 **Advanced Certifications**: CEH, OSCP, CISSP
-- 🔬 **Security Research**: Contributing to vulnerability research
-- 🏆 **CTF & Bug Bounties**: Active participation in competitions
-- 🛡️ **Tool Development**: Creating innovative security solutions
-- 👥 **Community Impact**: Mentoring and knowledge sharing
-
----
-
-## 💡 Latest Activity
+**Cybersecurity-focused Backend Developer** specializing in **AI-driven threat detection** and **secure web architecture**. Proven track record of building production-ready applications with **90%+ accuracy** in malicious URL detection. Passionate about integrating machine learning with security frameworks to create resilient digital infrastructures.
 
 ```python
 class AnuragRevankar:
     def __init__(self):
-        self.name = "Anurag Revankar"
-        self.role = "Cybersecurity Enthusiast"
-        self.language_spoken = ["en_US", "hi_IN"]
-        self.currently_learning = ["Advanced Penetration Testing", "Malware Analysis"]
-        self.current_focus = "Building Secure-Vault and security tools"
+        self.role = "Cybersecurity Engineer & Backend Developer"
+        self.location = "India 🇮🇳"
+        self.education = "B.Tech Student | Cybersecurity Specialist"
         
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's connect and build secure solutions together!")
+        self.impact = {
+            "threat_detection_accuracy": "90%+",
+            "projects_deployed": 4,
+            "security_frameworks": ["OWASP Top-10", "NIST", "Zero Trust"],
+            "code_quality": "Production-Ready | Modular | Secure"
+        }
+        
+        self.expertise = [
+            "AI-Powered Security Solutions",
+            "Django REST API Development", 
+            "Penetration Testing & Ethical Hacking",
+            "ML-Based Threat Analysis"
+        ]
+    
+    def current_mission(self):
+        return "Building AI-driven cybersecurity solutions for the next generation of web security"
+```
 
-me = AnuragRevankar()
-me.say_hi()
+<div align="right">
+
+*"Security is not a product, but a process of continuous innovation"*
+
+</div>
+
+---
+
+## 🚀 Featured Projects | Real-World Impact
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛡️ [Safeguard Web Protector](https://github.com/anurag-rvnkr1/Safeguard-Web-Protector)
+**AI-Driven Malicious URL Detector | Chrome Extension**
+
+**Tech Stack:** `Python` `Machine Learning` `Flask/FastAPI` `PostgreSQL` `Random Forest`
+
+**Key Features:**
+- 🎯 **90%+ Detection Accuracy** using Random Forest ML model
+- 🔄 Real-time threat analysis via Google Safe Browsing & VirusTotal APIs
+- 📊 Intelligent pattern recognition for zero-day threats
+- 🔐 Privacy-first architecture with encrypted data handling
+
+**Impact:** Protects users from phishing, malware, and social engineering attacks in real-time
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 📚 [SkillForge](https://github.com/anurag-rvnkr1/SkillForge)
+**Enterprise E-Learning Platform with AI Assistance**
+
+**Tech Stack:** `Django` `Django REST Framework` `PostgreSQL` `AI Integration`
+
+**Key Features:**
+- 🤖 AI-powered personalized learning recommendations
+- 💳 Secure payment gateway integration (Razorpay/Stripe)
+- 🎮 Gamified learning with achievement system
+- 👥 Multi-role access (Admin/Instructor/Student)
+
+**Impact:** Scalable education platform built for 10,000+ concurrent users
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=rest&logoColor=white)
+![AI](https://img.shields.io/badge/AI-00D9FF?style=flat-square&logo=ai&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔐 [SecureVault](https://github.com/anurag-rvnkr1/Secure-Vault)
+**Entropy-Based Password Generator with AI Strength Analysis**
+
+**Tech Stack:** `Django` `PostgreSQL` `Cryptography` `Vercel/Render`
+
+**Key Features:**
+- 🧮 Entropy-based password strength scoring
+- 🔒 AES-256 encryption for stored credentials
+- 📈 AI-powered vulnerability assessment
+- 🎯 NIST compliance for password policies
+
+**Impact:** Empowers users to create unhackable passwords with educational security insights
+
+![Security](https://img.shields.io/badge/Security-FF0000?style=flat-square&logo=security&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🏥 [Smart Hospital Management](https://github.com/anurag-rvnkr1/Smart-Hospital-Management)
+**HIPAA-Compliant Healthcare Management System**
+
+**Tech Stack:** `Django` `PostgreSQL` `Bootstrap` `RBAC`
+
+**Key Features:**
+- 🏥 End-to-end hospital operations automation
+- 🔐 Role-based access control (RBAC) for data security
+- 📊 Encrypted medical records storage
+- ⚡ Automated billing, appointments, and pharmacy workflows
+
+**Impact:** Streamlines healthcare delivery while ensuring HIPAA/GDPR compliance
+
+![Healthcare](https://img.shields.io/badge/Healthcare-4CAF50?style=flat-square&logo=health&logoColor=white)
+![Security](https://img.shields.io/badge/HIPAA-Compliant-blue?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![View All Projects](https://img.shields.io/badge/🔗_Explore_All_8_Repositories-181717?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/anurag-rvnkr1?tab=repositories)
+
+</div>
+
+---
+
+## 💼 Technical Proficiency Matrix
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Backend Development
+```yaml
+Languages:
+  Python: ████████████░ 95%
+  SQL: ███████████░░ 88%
+  HTML/CSS: ██████████░░░ 80%
+
+Frameworks:
+  Django: ████████████░ 92%
+  Django REST Framework: ███████████░░ 90%
+  Flask/FastAPI: ██████████░░░ 85%
+
+Databases:
+  PostgreSQL: ███████████░░ 88%
+  MySQL: ██████████░░░ 82%
+  SQLite: ███████████░░ 90%
+```
+
+</td>
+<td width="50%" valign="top">
+
+### Cybersecurity & DevOps
+```yaml
+Security Tools:
+  Penetration Testing: ███████████░░ 88%
+  OWASP Top-10: ████████████░ 95%
+  Threat Modeling: ██████████░░░ 85%
+
+Tools & Platforms:
+  Burp Suite: ███████████░░ 90%
+  Metasploit: ██████████░░░ 82%
+  Wireshark: ███████████░░ 88%
+  Nmap: ████████████░ 92%
+  
+DevOps:
+  Git/GitHub: ████████████░ 95%
+  CI/CD: ██████████░░░ 80%
+  Cloud (Vercel/Render): ███████████░░ 85%
+```
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🔍 Click to Expand: Complete Technical Arsenal</b></summary>
+
+<br>
+
+**Security Expertise:**
+- 🎯 Ethical Hacking & Penetration Testing
+- 🔐 OWASP Top-10 Security Implementation
+- 🛡️ Threat Intelligence & Vulnerability Assessment
+- 🔒 Secure Code Review & Security Auditing
+- 📊 OSINT (Open Source Intelligence) Techniques
+- 🚨 Incident Response & Threat Hunting
+
+**Machine Learning & AI:**
+- 🤖 Random Forest, Decision Trees, Neural Networks
+- 📈 Supervised/Unsupervised Learning
+- 🎯 Threat Detection & Anomaly Recognition
+- 🧠 Natural Language Processing (NLP) basics
+
+**Development Tools:**
+- 💻 IDEs: VS Code, PyCharm, Vim
+- 🔧 Version Control: Git, GitHub (Advanced)
+- 🐳 Containerization: Docker basics
+- 📊 API Testing: Postman, Insomnia
+- 🔄 CI/CD: GitHub Actions, Jenkins
+
+**Security Platforms:**
+- 🌐 VirusTotal, Shodan, Censys
+- 🔍 Google Safe Browsing API
+- 🛡️ Kali Linux, Parrot OS
+- 🔐 OSINT Framework, Maltego
+
+</details>
+
+---
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+
+| 🎯 Achievement | 📊 Impact | 🗓️ Timeline |
+|:---|:---|:---:|
+| **90%+ Threat Detection Accuracy** | Safeguard Web Protector recognized for ML-based security | 2024-2025 |
+| **4+ Production Applications** | Full-stack projects serving real-world use cases | 2024-2025 |
+| **Google Cloud Cybersecurity Certified** | Industry-recognized security expertise | June 2025 |
+| **Python NPTEL Certification** | 83% Score with Distinction | Aug 2025 |
+| **CTF & Hackathon Participant** | Active in competitive cybersecurity challenges | Ongoing |
+| **BTI Coding Club Core Member** | Leadership in technical community building | 2024-2025 |
+| **Open Source Contributor** | Clean, modular, OWASP-compliant codebases | Ongoing |
+
+</div>
+
+---
+
+## 📜 Certifications & Continuous Learning
+
+<div align="center">
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud_Cybersecurity-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Python](https://img.shields.io/badge/Python_NPTEL-83%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django_Udemy-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+</div>
+
+**📚 Current Learning Path (2025):**
+```mermaid
+timeline
+    title Cybersecurity Career Roadmap 2025
+    Q1 2025 : Advanced Penetration Testing
+           : OSCP Preparation
+           : Malware Analysis Fundamentals
+    Q2 2025 : CEH (Certified Ethical Hacker)
+           : Cloud Security (AWS/GCP)
+           : Security Automation with Python
+    Q3 2025 : Bug Bounty Programs
+           : Red Team Operations
+           : Advanced Threat Hunting
+    Q4 2025 : CISSP Preparation
+           : Security Architecture Design
+           : AI Security Research
+```
+
+**🎯 Target Certifications:**
+- 🔴 **OSCP** (Offensive Security Certified Professional) - Q2 2025
+- 🛡️ **CEH** (Certified Ethical Hacker) - Q3 2025
+- ☁️ **AWS Security Specialty** - Q3 2025
+- 🎓 **CISSP** (Certified Information Systems Security Professional) - 2026
+
+---
+
+## 📊 GitHub Performance Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anurag-rvnkr1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&ring_color=00FF41&fire_color=00FF41" height="180em" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anurag-rvnkr1&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41" height="180em" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-rvnkr1&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&langs_count=8" height="180em" />
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anurag-rvnkr1&theme=github-compact&hide_border=true&bg_color=0D1117&color=00FF41&line=00D9FF&point=ffffff)
+
+</div>
+
+---
+
+## 🎯 What I Bring to Your Team
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🔐 Security-First Mindset
+**OWASP Top-10 Compliant**
+
+Every line of code follows security best practices. I don't just build features—I build fortified systems.
+
+</td>
+<td width="33%" align="center">
+
+### ⚡ Production-Ready Code
+**Scalable & Maintainable**
+
+Clean architecture, comprehensive documentation, and modular design for enterprise-scale applications.
+
+</td>
+<td width="33%" align="center">
+
+### 🚀 Rapid Problem Solver
+**Agile & Adaptive**
+
+From concept to deployment in record time. Experienced with fast-paced development cycles.
+
+</td>
+</tr>
+</table>
+
+### 💡 Core Competencies
+
+```typescript
+const coreStrengths = {
+  technical: [
+    "AI-driven security solutions development",
+    "RESTful API design & microservices architecture", 
+    "Database optimization (PostgreSQL, MySQL)",
+    "Threat modeling & risk assessment",
+    "Secure authentication systems (JWT, OAuth2)"
+  ],
+  
+  softSkills: [
+    "Critical thinking under pressure",
+    "Cross-functional team collaboration", 
+    "Technical documentation & knowledge sharing",
+    "Agile/Scrum methodologies",
+    "Continuous learning & adaptation"
+  ],
+  
+  mindset: "Security-by-design | Innovation-driven | User-centric"
+};
 ```
 
 ---
 
-## 🤝 Let's Collaborate!
+## 🎯 Career Aspirations
 
 <div align="center">
 
-**"The best defense is a good offense - but an ethical one."**
+### 🚀 **Actively Seeking Opportunities In:**
 
-I'm always excited to:
-- 🤝 Collaborate on cybersecurity projects
-- 💬 Discuss emerging security threats
-- 📚 Share knowledge and learn from others
-- 🎯 Work on innovative security solutions
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🎯 Primary Interests
+- **🛡️ Cybersecurity Analyst / Engineer**
+- **🐍 Python Django Backend Developer**
+- **🔐 Application Security Engineer**
+- **🕵️ Penetration Tester / Ethical Hacker**
+- **🤖 AI Security Researcher**
+
+</td>
+<td width="50%">
+
+#### 🌟 Dream Projects
+- Building AI-powered security orchestration platforms
+- Developing next-gen threat intelligence systems
+- Contributing to open-source security tools
+- Creating educational cybersecurity content
+- Red team operations & offensive security
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🎯 Long-Term Vision
+
+*"To architect AI-driven cybersecurity ecosystems that proactively defend against emerging threats, while bridging the gap between machine learning and network security at enterprise scale."*
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+### 📬 Open for:
+
+**✅ Full-Time Opportunities** | **✅ Freelance Projects** | **✅ Open Source Collaboration** | **✅ Security Consulting**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🗣️ Let's Discuss:
+- 🔐 Security architecture & threat modeling
+- 🤖 AI/ML in cybersecurity applications
+- 🐍 Django best practices & scalable design
+- 🎯 Career growth in InfoSec
+- 💼 Exciting opportunities & collaborations
+
+</td>
+<td width="50%">
+
+### 📍 Find Me Here:
+- 💼 [LinkedIn](https://www.linkedin.com/in/anu-rvnkr-m416g) - Professional Network
+- 🐙 [GitHub](https://github.com/anurag-rvnkr1) - Code Portfolio
+- 📧 [Email](mailto:your.email@example.com) - Direct Contact
+- 📸 [Instagram](https://www.instagram.com/anurag_rvnkr) - Tech Updates
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anurag-rvnkr1&theme=github_dark" width="100%" />
 
 </div>
 
 ---
 
 <div align="center">
-  
-  ![Cybersecurity GIF](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=anurag-rvnkr1&label=Profile%20Views&color=00D9FF&style=for-the-badge)](https://github.com/anurag-rvnkr1)
-  
-  **Made with 💙 and ⚡ by Anurag Revankar**
+
+### 💭 Philosophy
+
+*"In cybersecurity, paranoia is just thorough preparation."*
+
+**Building secure digital futures, one line of code at a time.** 🛡️
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=anurag-rvnkr1&label=Profile%20Views&color=00FF41&style=for-the-badge" alt="Profile Views" />
+
+**⭐ If you find my work interesting, consider starring my repositories!**
+
+[![Star History](https://img.shields.io/badge/⭐_Star_My_Projects-Help_Me_Grow-yellow?style=for-the-badge)](https://github.com/anurag-rvnkr1?tab=repositories)
+
+---
+
+*Last Updated: November 2025 | Made with 💚 and ⚡ by Anurag Revankar*
 
 </div>
